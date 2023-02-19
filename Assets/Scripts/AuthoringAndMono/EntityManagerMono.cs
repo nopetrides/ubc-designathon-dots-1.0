@@ -13,6 +13,8 @@ namespace AuthoringAndMono
         public float2 FieldDimensions;
         public int NumberOfDropPoints;
         public GameObject DropPointsPrefab;
+        public GameObject EnemyPrefab;
+        public float EnemySpawnRate;
     }
     
     /// <summary>
@@ -26,8 +28,12 @@ namespace AuthoringAndMono
             {
                 FieldDimensions = authoring.FieldDimensions,
                 NumberOfDropPoints = authoring.NumberOfDropPoints,
-                DropPointPrefab = GetEntity(authoring.DropPointsPrefab)
+                DropPointPrefab = GetEntity(authoring.DropPointsPrefab),
+                EnemyPrefab = GetEntity(authoring.EnemyPrefab),
+                EnemySpawnRate = authoring.EnemySpawnRate
             });
+            AddComponent<EnemySpawnPoints>();
+            AddComponent<EnemySpawnTimer>();
         }
     }
 }

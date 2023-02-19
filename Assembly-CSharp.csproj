@@ -106,6 +106,7 @@
      <Compile Include="Assets/Scripts/Misc/SelfDestructAfterTime.cs" />
      <Compile Include="Assets/Scripts/Character/PlatformerCharacterSystems.cs" />
      <Compile Include="Assets/Scripts/ComponentAndTags/EntityManagerProperties.cs" />
+     <Compile Include="Assets/Scripts/ComponentAndTags/EnemySpawnPoints.cs" />
      <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
      <Compile Include="Assets/Scripts/Misc/WindZoneAuthoring.cs" />
      <Compile Include="Assets/Scripts/Character/States/AirMoveState.cs" />
@@ -120,6 +121,7 @@
      <Compile Include="Assets/Scripts/Misc/TestMovingPlatform.cs" />
      <Compile Include="Assets/Scripts/Character/CharacterState.cs" />
      <Compile Include="Assets/Scripts/Character/PlatformerCharacterHybridLink.cs" />
+     <Compile Include="Assets/Scripts/Systems/SpawnEnemySystem.cs" />
      <Compile Include="Assets/Scripts/Character/PlatformerCharacterAuthoring.cs" />
      <Compile Include="Assets/Scripts/Systems/SpawnDropPointSystem.cs" />
      <Compile Include="Assets/Scripts/Physics/StatefulEvents/StatefulCollisionEventBufferAuthoring.cs" />
@@ -172,6 +174,7 @@
      <Folder Include="Assets/Models" />
      <Folder Include="Assets/Scenes/Platformer/Main" />
      <Folder Include="Assets/Data/Rendering/Presets" />
+     <Folder Include="Assets/Prefabs/Game/InEntityScene" />
      <Folder Include="Assets/Prefabs" />
      <Folder Include="Assets/SceneDependencyCache" />
      <Folder Include="Assets/Scenes/Platformer-Noah" />

@@ -9,5 +9,12 @@ namespace ComponentAndTags
         public float2 FieldDimensions;
         public int NumberOfDropPoints;
         public Entity DropPointPrefab;
+        public Entity EnemyPrefab; // single enemy, for testing
+        public float EnemySpawnRate;
+    }
+    
+    public struct EnemySpawnTimer : IComponentData
+    {
+        public float Value;
     }
 }
