@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66e61d81b5cf6f14ea12f71ff1dc42dc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225129
+  packageName: Rival - DOTS Character Controller for Unity
+  packageVersion: 1.0.0-pre.15.1
+  assetPath: Assets/Rival/StandardCharacters/StandardCharacter_ThirdPerson.unitypackage
+  uploadId: 554684
