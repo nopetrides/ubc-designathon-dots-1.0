@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1dc6591790b8e684fad170022f71a105
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225129
+  packageName: Rival - DOTS Character Controller for Unity
+  packageVersion: 1.0.0-pre.15.1
+  assetPath: Assets/Rival/Runtime/MathUtilities.cs
+  uploadId: 554684

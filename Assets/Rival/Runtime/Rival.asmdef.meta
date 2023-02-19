@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 063491cd79cfb5546b012a6c1b6e05dd
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225129
+  packageName: Rival - DOTS Character Controller for Unity
+  packageVersion: 1.0.0-pre.15.1
+  assetPath: Assets/Rival/Runtime/Rival.asmdef
+  uploadId: 554684

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fe53f23098a10bb4d8518be070d06ef4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225129
+  packageName: Rival - DOTS Character Controller for Unity
+  packageVersion: 1.0.0-pre.15.1
+  assetPath: Assets/Rival/Runtime/TrackedTransform.cs
+  uploadId: 554684
